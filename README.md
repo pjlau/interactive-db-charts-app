@@ -17,3 +17,10 @@ A web application showcasing a line chart, graph, and hotspot map using FastAPI,
    docker-compose up --build
 3. Access the webpage through `http://localhost:5173`.
 4. Access the backend through `http://localhost:8000`.
+
+## Results
+<img src="images/demo_fig1.png" alt="Example1" width="500">
+<br>
+<img src="images/demo_fig2.png" alt="Example2" width="200">
+<br>
+<img src="images/demo_fig3.png" alt="Example3" width="500">
