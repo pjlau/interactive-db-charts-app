@@ -10,8 +10,8 @@ A web application showcasing a line chart, graph, and hotspot map using FastAPI,
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd interactive-charts-app
+   git clone https://github.com/pjlau/interactive-db-charts-app
+   cd interactive-db-charts-app
 2. Run the Docker:
    ```bash
    docker-compose up --build
